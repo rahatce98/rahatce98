@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 348" width="1200" height="348" role="img" aria-label="Tooling: design and GIS, data and automation, build, domain.">
+<defs>
+<linearGradient id="sbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#EDF3F9"/></linearGradient>
+<linearGradient id="card" x1="0" y1="0" x2="0.3" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#F1F6FB"/></linearGradient>
+</defs>
+<rect width="1200" height="348" rx="18" fill="url(#sbg)"/>
+<g opacity="0.20"><path d="M 619.05,-435.00 L -454.82,185.00 M 580.95,-435.00 L 1654.82,185.00 M 658.89,-412.00 L -414.98,208.00 M 541.11,-412.00 L 1614.98,208.00 M 698.73,-389.00 L -375.14,231.00 M 501.27,-389.00 L 1575.14,231.00 M 738.56,-366.00 L -335.31,254.00 M 461.44,-366.00 L 1535.31,254.00 M 778.40,-343.00 L -295.47,277.00 M 421.60,-343.00 L 1495.47,277.00 M 818.24,-320.00 L -255.63,300.00 M 381.76,-320.00 L 1455.63,300.00 M 858.08,-297.00 L -215.80,323.00 M 341.92,-297.00 L 1415.80,323.00 M 897.91,-274.00 L -175.96,346.00 M 302.09,-274.00 L 1375.96,346.00 M 937.75,-251.00 L -136.12,369.00 M 262.25,-251.00 L 1336.12,369.00 M 977.59,-228.00 L -96.28,392.00 M 222.41,-228.00 L 1296.28,392.00 M 1017.42,-205.00 L -56.45,415.00 M 182.58,-205.00 L 1256.45,415.00 M 1057.26,-182.00 L -16.61,438.00 M 142.74,-182.00 L 1216.61,438.00 M 1097.10,-159.00 L 23.23,461.00 M 102.90,-159.00 L 1176.77,461.00 M 1136.94,-136.00 L 63.06,484.00 M 63.06,-136.00 L 1136.94,484.00 M 1176.77,-113.00 L 102.90,507.00 M 23.23,-113.00 L 1097.10,507.00 M 1216.61,-90.00 L 142.74,530.00 M -16.61,-90.00 L 1057.26,530.00 M 1256.45,-67.00 L 182.58,553.00 M -56.45,-67.00 L 1017.42,553.00 M 1296.28,-44.00 L 222.41,576.00 M -96.28,-44.00 L 977.59,576.00 M 1336.12,-21.00 L 262.25,599.00 M -136.12,-21.00 L 937.75,599.00 M 1375.96,2.00 L 302.09,622.00 M -175.96,2.00 L 897.91,622.00 M 1415.80,25.00 L 341.92,645.00 M -215.80,25.00 L 858.08,645.00 M 1455.63,48.00 L 381.76,668.00 M -255.63,48.00 L 818.24,668.00 M 1495.47,71.00 L 421.60,691.00 M -295.47,71.00 L 778.40,691.00 M 1535.31,94.00 L 461.44,714.00 M -335.31,94.00 L 738.56,714.00 M 1575.14,117.00 L 501.27,737.00 M -375.14,117.00 L 698.73,737.00 M 1614.98,140.00 L 541.11,760.00 M -414.98,140.00 L 658.89,760.00 M 1654.82,163.00 L 580.95,783.00 M -454.82,163.00 L 619.05,783.00" fill="none" stroke="#8FB2CE" stroke-width="0.5"/></g>
+<rect x="24" y="24" width="270" height="300" rx="14" fill="url(#card)" stroke="#CBDCEA" stroke-width="1"/>
+<rect x="44" y="48" width="34" height="3" rx="1.5" fill="#B45309"/>
+<text x="44" y="84" font-family="ui-monospace,SFMono-Regular,SF Mono,Cascadia Code,Roboto Mono,Consolas,Liberation Mono,monospace" font-size="11.5" letter-spacing="2.4" font-weight="700" fill="#B45309">DESIGN &amp; GIS</text>
+<rect x="45" y="121" width="6" height="6" rx="1" fill="#B45309" opacity="0.75" transform="rotate(45 48 124)"/>
+<text x="62" y="126" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="13" fill="#476380">AutoCAD</text>
+<rect x="45" y="151" width="6" height="6" rx="1" fill="#B45309" opacity="0.75" transform="rotate(45 48 154)"/>
+<text x="62" y="156" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="13" fill="#476380">ArcGIS</text>
+<rect x="45" y="181" width="6" height="6" rx="1" fill="#B45309" opacity="0.75" transform="rotate(45 48 184)"/>
+<text x="62" y="186" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="13" fill="#476380">WaterGEMS</text>
+<rect x="45" y="211" width="6" height="6" rx="1" fill="#B45309" opacity="0.75" transform="rotate(45 48 214)"/>
+<text x="62" y="216" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="13" fill="#476380">SewerGEMS</text>
+<rect x="45" y="241" width="6" height="6" rx="1" fill="#B45309" opacity="0.75" transform="rotate(45 48 244)"/>
+<text x="62" y="246" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="13" fill="#476380">Field survey &amp; levelling</text>
+<g opacity="0.30"><path d="M 216.82,264.00 L 248.00,282.00 L 248.00,302.00 L 216.82,284.00 Z" fill="none" stroke="#B45309" stroke-width="1.2"/><path d="M 279.18,264.00 L 248.00,282.00 L 248.00,302.00 L 279.18,284.00 Z" fill="none" stroke="#B45309" stroke-width="1.2"/><path d="M 248.00,246.00 L 279.18,264.00 L 248.00,282.00 L 216.82,264.00 Z" fill="none" stroke="#B45309" stroke-width="1.2"/></g>
+<rect x="318" y="24" width="270" height="300" rx="14" fill="url(#card)" stroke="#CBDCEA" stroke-width="1"/>
+<rect x="338" y="48" width="34" height="3" rx="1.5" fill="#0E7490"/>
+<text x="338" y="84" font-family="ui-monospace,SFMono-Regular,SF Mono,Cascadia Code,Roboto Mono,Consolas,Liberation Mono,monospace" font-size="11.5" letter-spacing="2.4" font-weight="700" fill="#0E7490">DATA &amp; AUTOMATION</text>
+<rect x="339" y="121" width="6" height="6" rx="1" fill="#0E7490" opacity="0.75" transform="rotate(45 342 124)"/>
+<text x="356" y="126" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="13" fill="#476380">Python</text>
+<rect x="339" y="151" width="6" height="6" rx="1" fill="#0E7490" opacity="0.75" transform="rotate(45 342 154)"/>
+<text x="356" y="156" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="13" fill="#476380">Power Query</text>
+<rect x="339" y="181" width="6" height="6" rx="1" fill="#0E7490" opacity="0.75" transform="rotate(45 342 184)"/>
+<text x="356" y="186" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="13" fill="#476380">Excel automation</text>
+<rect x="339" y="211" width="6" height="6" rx="1" fill="#0E7490" opacity="0.75" transform="rotate(45 342 214)"/>
+<text x="356" y="216" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="13" fill="#476380">PowerShell</text>
+<rect x="339" y="241" width="6" height="6" rx="1" fill="#0E7490" opacity="0.75" transform="rotate(45 342 244)"/>
+<text x="356" y="246" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="13" fill="#476380">KoboToolbox</text>
+<g opacity="0.30"><path d="M 510.82,264.00 L 542.00,282.00 L 542.00,302.00 L 510.82,284.00 Z" fill="none" stroke="#0E7490" stroke-width="1.2"/><path d="M 573.18,264.00 L 542.00,282.00 L 542.00,302.00 L 573.18,284.00 Z" fill="none" stroke="#0E7490" stroke-width="1.2"/><path d="M 542.00,246.00 L 573.18,264.00 L 542.00,282.00 L 510.82,264.00 Z" fill="none" stroke="#0E7490" stroke-width="1.2"/></g>
+<rect x="612" y="24" width="270" height="300" rx="14" fill="url(#card)" stroke="#CBDCEA" stroke-width="1"/>
+<rect x="632" y="48" width="34" height="3" rx="1.5" fill="#0D9488"/>
+<text x="632" y="84" font-family="ui-monospace,SFMono-Regular,SF Mono,Cascadia Code,Roboto Mono,Consolas,Liberation Mono,monospace" font-size="11.5" letter-spacing="2.4" font-weight="700" fill="#0D9488">BUILD</text>
+<rect x="633" y="121" width="6" height="6" rx="1" fill="#0D9488" opacity="0.75" transform="rotate(45 636 124)"/>
+<text x="650" y="126" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="13" fill="#476380">HTML / CSS / JS</text>
+<rect x="633" y="151" width="6" height="6" rx="1" fill="#0D9488" opacity="0.75" transform="rotate(45 636 154)"/>
+<text x="650" y="156" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="13" fill="#476380">Google Apps Script</text>
+<rect x="633" y="181" width="6" height="6" rx="1" fill="#0D9488" opacity="0.75" transform="rotate(45 636 184)"/>
+<text x="650" y="186" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="13" fill="#476380">Git &amp; GitHub</text>
+<rect x="633" y="211" width="6" height="6" rx="1" fill="#0D9488" opacity="0.75" transform="rotate(45 636 214)"/>
+<text x="650" y="216" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="13" fill="#476380">GitHub Pages</text>
+<rect x="633" y="241" width="6" height="6" rx="1" fill="#0D9488" opacity="0.75" transform="rotate(45 636 244)"/>
+<text x="650" y="246" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="13" fill="#476380">AI-assisted dev</text>
+<g opacity="0.30"><path d="M 804.82,264.00 L 836.00,282.00 L 836.00,302.00 L 804.82,284.00 Z" fill="none" stroke="#0D9488" stroke-width="1.2"/><path d="M 867.18,264.00 L 836.00,282.00 L 836.00,302.00 L 867.18,284.00 Z" fill="none" stroke="#0D9488" stroke-width="1.2"/><path d="M 836.00,246.00 L 867.18,264.00 L 836.00,282.00 L 804.82,264.00 Z" fill="none" stroke="#0D9488" stroke-width="1.2"/></g>
+<rect x="906" y="24" width="270" height="300" rx="14" fill="url(#card)" stroke="#CBDCEA" stroke-width="1"/>
+<rect x="926" y="48" width="34" height="3" rx="1.5" fill="#6D28D9"/>
+<text x="926" y="84" font-family="ui-monospace,SFMono-Regular,SF Mono,Cascadia Code,Roboto Mono,Consolas,Liberation Mono,monospace" font-size="11.5" letter-spacing="2.4" font-weight="700" fill="#6D28D9">DOMAIN</text>
+<rect x="927" y="121" width="6" height="6" rx="1" fill="#6D28D9" opacity="0.75" transform="rotate(45 930 124)"/>
+<text x="944" y="126" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="13" fill="#476380">Water distribution networks</text>
+<rect x="927" y="151" width="6" height="6" rx="1" fill="#6D28D9" opacity="0.75" transform="rotate(45 930 154)"/>
+<text x="944" y="156" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="13" fill="#476380">Sewerage &amp; drainage</text>
+<rect x="927" y="181" width="6" height="6" rx="1" fill="#6D28D9" opacity="0.75" transform="rotate(45 930 184)"/>
+<text x="944" y="186" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="13" fill="#476380">Construction supervision</text>
+<rect x="927" y="211" width="6" height="6" rx="1" fill="#6D28D9" opacity="0.75" transform="rotate(45 930 214)"/>
+<text x="944" y="216" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="13" fill="#476380">Quantity &amp; progress monitoring</text>
+<rect x="927" y="241" width="6" height="6" rx="1" fill="#6D28D9" opacity="0.75" transform="rotate(45 930 244)"/>
+<text x="944" y="246" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif" font-size="13" fill="#476380">FIDIC contract administration</text>
+<g opacity="0.30"><path d="M 1098.82,264.00 L 1130.00,282.00 L 1130.00,302.00 L 1098.82,284.00 Z" fill="none" stroke="#6D28D9" stroke-width="1.2"/><path d="M 1161.18,264.00 L 1130.00,282.00 L 1130.00,302.00 L 1161.18,284.00 Z" fill="none" stroke="#6D28D9" stroke-width="1.2"/><path d="M 1130.00,246.00 L 1161.18,264.00 L 1130.00,282.00 L 1098.82,264.00 Z" fill="none" stroke="#6D28D9" stroke-width="1.2"/></g>
+<rect x="0.5" y="0.5" width="1199" height="347" rx="18" fill="none" stroke="#CBDCEA" stroke-width="1"/>
+</svg>
